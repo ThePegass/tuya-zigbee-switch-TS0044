@@ -1001,6 +1001,30 @@ TUYA_TS0012:
   info: null
   github_issue: null
   store: null
+TUYA_REMOTE_TS0044:
+  human_name: Tuya 4-button remote
+  neutral: without
+  battery: LR23A
+  device_type: end_device
+  tuya_model_name: TS0044
+  tuya_manufacturer_name: _TZ3000_mh9px7cq
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0044
+  override_z2m_device: TS0044_1
+  zb_module: ZT3L
+  family: Telink
+  config_str: mh9px7cq;TS0044-CUS;LC0i;SD2u;RD4;SC2u;RA0;SC3u;RB4;SD7u;RB5;M;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  tuya_manufacturer_id: 4417
+  tuya_image_type: 54179
+  firmware_image_type: 43563
+  build: yes
+  status: In progress
+  info: Does not have relays
+  github_issue: https://github.com/romasku/tuya-zigbee-switch/issues/171
+  store: https://allegro.pl/oferta/pilot-atlo-rc4-tuya-zigbee-tuya-smart-da-16513965398
 ZEMISMART_SWITCH_TS0012:
   human_name: Zemismart 2-gang switch
   neutral: optional
