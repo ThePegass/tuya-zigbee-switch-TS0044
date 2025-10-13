@@ -266,6 +266,7 @@ CONFIGS = [
     "Tuya-TS0012-custom;TS0012-custom;BA0f;LD7;SC2f;RC0;SC3f;RB4;",
     "Tuya-TS0012-custom;TS0042-CUSTOM;BA0f;LD7;SC2f;RC0;SC3f;RB4;",
     "Tuya-TS0012-custom;TS0012-custom-end-device;BA0f;LD7;SC2f;RC0;SC3f;RB4;",
+    "mh9px7cq;TS0044-CUS;LC0i;SD2u;RD4;SC2u;RA0;SC3u;RB4;SD7u;RB5;M;",
     "zmlunnhy;Zemi-2-gang;SC3U;RB5C4;IB7;SD2U;RC2D4;ID7;",
     "zmlunnhy;Zemi-2-gang-ED;SC3U;RB5C4;IB7;SD2U;RC2D4;ID7;",
     "Zemi-2-gang;Zemi-2-gang;SC3U;RB5C4;IB7;SD2U;RC2D4;ID7;",
