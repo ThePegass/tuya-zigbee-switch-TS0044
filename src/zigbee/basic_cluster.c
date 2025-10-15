@@ -14,7 +14,7 @@ const u8 appVersion   = 0x03;
 const u8 stackVersion = 0x02;
 const u8 hwVersion    = 0x00;
 
-const u8 powerSource = POWER_SOURCE_MAINS_1_PHASE;
+const u8 powerSource = POWER_SOURCE_BATTERY;
 DEF_STR_NON_CONST("1.0." STRINGIFY(STACK_BUILD), swBuildId);
 DEF_STR_NON_CONST("00000000", dateCode);
 
