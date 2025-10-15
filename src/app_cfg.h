@@ -49,7 +49,7 @@ extern "C" {
 /* PM */
 
 #ifndef PM_ENABLE
-#define PM_ENABLE               1
+#define PM_ENABLE               0
 #endif
 #define PM_SLEEP_DURATION_MS    1000
 
